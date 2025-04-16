@@ -1,8 +1,8 @@
 # Logseq-Testing
 ---
-
+```
+# WORKS
 <img src=x onerror="alert('XSS')">
+```
 
-<svg/onload=alert('SVG XSS')>
-
-<script>alert('Script XSS')</script>
+<img src="file:///C:/Windows/System32/cmd.exe">

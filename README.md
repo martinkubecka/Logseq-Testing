@@ -1,7 +1,7 @@
 # Logseq-Testing
 ---
 
-<img src=x onerror="alert('XSS')">
+Hello there Logseq!
 
 <SCRIPT>
         // Check if the Electron preload API is accessible
@@ -15,4 +15,6 @@
       }
 </SCRIPT>
 
-[:iframe {:src "ms-calculator://"}]
+---
+
+This Logseq plugin is for testing/demonstration purposes. 

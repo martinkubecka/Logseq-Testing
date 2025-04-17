@@ -3,7 +3,7 @@
 
 Hello there Logseq!
 
-</main></div></body></html></iframe><b>escaped</b>
+<img src=x onerror="alert('XSS')">
 
 ---
 

